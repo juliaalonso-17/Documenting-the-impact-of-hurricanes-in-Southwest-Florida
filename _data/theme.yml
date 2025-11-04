@@ -120,4 +120,4 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 #   arrow-right: arrow-right
 #   arrow-down: arrow-down
 
-theme: jekyll-theme-time-machine@v0.2.0
+theme: jekyll-theme-merlot@v0.2.0
