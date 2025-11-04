@@ -14,7 +14,7 @@ credits: true
 
 ## About the Project
 
-The “Documenting the Impacts of Hurricanes in Southwest Florida” digital exhibit was created as part of HIS 3080: Archiving History to practice with processing materials and culminate with creating a digital exhibit. This exhibit explores how hurricanes have shaped the region’s past and continue to influence its identity. This project brings together a collection of primary sources that document the environmental, social, and infrastructural impacts of major storms, particularly Hurricane Donna in 1960, across Collier and Lee Counties.
+The “What Happens After Disaster Documenting the Impacts of Hurricanes in Southwest Florida” digital exhibit was created as part of HIS 3080: Archiving History to practice with processing materials and culminate with creating a digital exhibit. This exhibit explores how hurricanes have shaped the region’s past and continue to influence its identity. This project brings together a collection of primary sources that document the environmental, social, and infrastructural impacts of major storms, particularly Hurricane Donna in 1960, across Collier and Lee Counties.
 Drawing from materials donated by the Collier County Museums, this exhibit integrates damage assessments, health bulletins, images, and newspaper coverage that provide a look at how communities endured and recovered from natural disasters. These objects not only record destruction but also reveal the resilience of Southwest Florida’s residents as they navigated the aftermath of catastrophic weather events.
 
 ## Purpose and Goals
