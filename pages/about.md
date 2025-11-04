@@ -32,3 +32,6 @@ These items together offer a record of both official and personal experiences, r
 ## Broader Significance
 This project shows the importance of digital archiving in preserving local histories that might otherwise be lost to time. By collecting and digitizing reports, images, newspapers, and health documents, this exhibit ensures that these vital records remain accessible to future researchers, educators, and residents seeking to understand Southwest Florida’s past in regard to Hurricanes.
 The exhibit demonstrates how digital humanities and historical research can come together to preserve community memory. It reminds us that while hurricanes have repeatedly tested the region, they have also inspired remarkable stories of endurance and collective strength.
+
+## Acknowledgements
+This exhibit was created as a part of the FGCU Fall 2025 class, HIS 3080: Archiving History, under the guidance of Victoria Jones. The project reflects the course’s emphasis on hands-on archival work and community engagement. Special thanks to the Collier County Museums for the access to all digital materials used in the Exhibit and the FGCU librarian Rachel Tait-Ripperdan for her support with creating the digital exhibit.
