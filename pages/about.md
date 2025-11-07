@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="fgcu_fl_0020" %}
-
+featured-image: /objects/2013274-1.jpeg
 {% include feature/nav-menu.html sections="About the Project;Acknowledgements" %}
 
 # About the Project
